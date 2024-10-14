@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+/*------------------- general -------------------*/
+:root {
+  --primary-color: #43fa00;
+  --secondary-color: #2bb500;
+  --tercary-color: #b7ff92;
+  /* text-color */
+  --text-dark: #093300;
+  --text-white: #fff;
+}
